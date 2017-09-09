@@ -1,0 +1,122 @@
+Music 
+
+music q | queue - Shows queue
+music q | queue [song name (yt) | url] - Queues a song or playlist
+   music q [song name (yt) | url] --next - Queues song or playlist to the next position(s)
+
+music qp | queueplay [song name (yt) | url] - Queues a song and plays from the start of the queue.
+
+music sq | showqueue - Shows queue
+music pg | purge - Clears queue
+music d | delete <itemNumber|search>- Deletes item(s) from the queue
+
+music p | play - Starts playing queued song(s)
+music s | skip - Skips current song
+music sf | shuffle - Shuffles queue randomly 
+music r | repeat <all|one|off> - Turns on|off repeat
+
+music pv | providers - Shows a list of available music providers.
+
+music j | join - Joins your current voice channel *note you must be in the voice channel* 
+music l | leave - Leaves the voice channel
+
+
+
+aliases : Manage command aliases
+
+     avatar : Get a user's avatar
+     
+        bad : No, bad!
+        
+        ban : Ban users
+        
+    bigtext : Generates text with regional indicators
+    
+   bigtextd : Same as bigtext, I also remove your command
+   
+    botlist : Get botlist from carbon
+    
+channelinfo : Get information about a channel
+
+      clean : I will delete my messages in the last 100 messages
+      
+   donators : List of people who help make Ayana possible
+   
+          f : F to pay respects
+          
+   flipcoin : Flip a coin
+   
+       help : Display this message
+       
+       info : Display bot information
+       
+        inu : random.dog
+        
+     invite : Have me join your server
+     
+       kick : Kick users
+       
+      lenny : ( ͡° ͜ʖ ͡°)
+      
+     lennyd : Same as lenny, I also remove your command
+     
+       lewd : That's lewd!
+       
+  linkcheck : Uses www.getlinkinfo.com to check where a link redirects
+  
+     locale : Language settings interface
+     
+     modlog : ModLog settings interface
+     
+      music : Music player
+      
+      neko : random.cat
+      
+      pat : Pat
+      
+      perms : Permission control interface
+      
+      ping : Ping Pong
+      
+      pout : Pout
+      
+     prefix : Check the bot's prefix
+     
+       prune : Message pruning
+       
+       rank : Assign ranks from SAR
+       
+   reminder : Let me remind you
+   
+       role : Give, take and modify roles
+       
+   roleinfo : Get information about a role
+   
+rolemembers : List the members of a role
+
+        sar : Self assignable roles settings interface
+        
+        say : Have me say something
+        
+       sayd : Same as say, I also remove your command
+       
+ serverinfo : Get information about a server
+ 
+   settings : Settings control interface
+  
+      shrug : ¯\_(ツ)_/¯
+      
+     shrugd : Same as shrug, I also remove your command
+     
+       smug : Smug
+       
+  spongebob : No help defined
+
+  sumfuk : u want, sum fuk?
+
+    support : Invite link for the support server
+    
+   userinfo : Get information about a user
+   
+        waa : Gotta cry?
+        
